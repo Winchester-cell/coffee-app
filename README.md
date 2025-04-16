@@ -26,15 +26,15 @@ This project simulates a small e-commerce experience including browsing products
 ## 📸 Screenshots
 
 ### 🏠 Home Page
-![Home](./public/ss/Screenshot (1).png)
+![Home](./public/ss/1.png)
 
 ### ☕ Menu Page
-![Product](./public/ss/Screenshot (3).png)
+![Product](./public/ss/2.png)
 
 ### 🛒 Reservation Page
-![Cart](./public/ss/Screenshot (4).png)
+![Cart](./public/ss/3.png)
 
 ### 💳 About Page
-![Checkout](./public/ss/Screenshot (5).png)
+![Checkout](./public/ss/4.png)
 .png)
 
