@@ -1,40 +1,40 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/pages/api-reference/create-next-app).
+# ☕ Coffee App
 
-## Getting Started
+A simple coffee shop web app built with **Next.js** on the frontend and **JSON Server** as a mock backend.  
+This project simulates a small e-commerce experience including browsing products, reservation and ...
 
-First, run the development server:
+## 🚀 Tech Stack
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+- **Frontend:** Next.js 13
+- **Styling:** CSS Modules
+- **Backend:** JSON Server (Mock API)
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## 📸 Screenshots
 
-You can start editing the page by modifying `pages/index.js`. The page auto-updates as you edit the file.
+### 🏠 Home Page
+![Home](./public/ss/# ☕ Coffee App
 
-[API routes](https://nextjs.org/docs/pages/building-your-application/routing/api-routes) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.js`.
+A simple coffee shop web app built with **Next.js** on the frontend and **JSON Server** as a mock backend.  
+This project simulates a small e-commerce experience including browsing products, adding to cart, and checking out.
 
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/pages/building-your-application/routing/api-routes) instead of React pages.
+## 🚀 Tech Stack
 
-This project uses [`next/font`](https://nextjs.org/docs/pages/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+- **Frontend:** Next.js 13
+- **Styling:** CSS Modules
+- **Backend:** JSON Server (Mock API)
 
-## Learn More
+## 📸 Screenshots
 
-To learn more about Next.js, take a look at the following resources:
+### 🏠 Home Page
+![Home](./public/ss/Screenshot (1).png)
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn-pages-router) - an interactive Next.js tutorial.
+### ☕ Menu Page
+![Product](./public/ss/Screenshot (3).png)
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+### 🛒 Reservation Page
+![Cart](./public/ss/Screenshot (4).png)
 
-## Deploy on Vercel
+### 💳 About Page
+![Checkout](./public/ss/Screenshot (5).png)
+.png)
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/pages/building-your-application/deploying) for more details.
